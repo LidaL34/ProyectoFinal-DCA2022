@@ -1,0 +1,26 @@
+
+.storie {
+    display: inline-block;
+    list-style: none;
+    margin: -11px 24px 5px -15px;
+    padding-top: 0px; 
+    position: relative;
+    left: 239px;
+    bottom: 293px;
+}
+
+.storie p{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: 59px;
+    font-size: 8pt;
+}
+
+.ring{
+   position: relative;
+   margin: -3;
+   padding-top: 3px; 
+   right: 3px;
+   bottom: 65px;
+}

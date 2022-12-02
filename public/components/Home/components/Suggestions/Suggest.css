@@ -1,0 +1,57 @@
+
+.profile{
+    margin: 0 10px ;
+    padding: auto;
+}
+
+.profile img {
+    position: relative;
+    left: 680px;
+    bottom: 110px;
+}
+
+.profile h1{
+    font-size: 10pt;
+    position: relative;
+    bottom: 165px;
+    left: 744px;  
+}
+
+.profile p {
+    font-size: 10pt;
+    position: relative;
+    bottom: 204px;
+    left: 744px;
+}
+
+.profile h2{
+    font-weight: normal;
+    color: darkgray;
+    position: relative;
+    bottom: 190px;
+    left: 680px;
+    font-size: 11pt;
+}
+
+.profiles{
+    display: inline-block;
+    margin: 0px 0 -10px 0;
+    padding: 0;
+    position: relative;
+    bottom: 328px;
+    left: 686px;
+}
+
+.profiles img {
+    position: relative;
+    margin: 0px 0px -16px 0px;
+    left: -8px;
+    top: 6px;
+}
+.profiles p {
+    margin: 0px;
+    position: relative;
+    bottom: 10px;
+    left: 43px;
+    font-size: 8pt;
+}
